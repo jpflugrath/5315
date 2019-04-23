@@ -10,7 +10,7 @@
     {
       "name": "William Brown",
       "position": "Integration Specialist",
-      "alma_mater": "UCLA"
+      "alma_mater": "UCLA",
       "years_experience": "2",
       "location": "Los Angeles"
     },
