@@ -1,124 +1,109 @@
 {
   "data": [
     {
-      "name": "James Bond",
-      "designation": "Accountant",
-      "salary": "$170,750",
-      "joining_date": "2011/07/25",
-      "office": "Tokyo",
-      "extension": "8422"
+      "name": "James Henderson",
+      "position": "Accountant",
+      "alma_mater": "Northwestern",
+      "years_experience": "11",
+      "location": "New York"
     },
     {
-      "name": "Brielle Williamson",
-      "designation": "Integration Specialist",
-      "salary": "$372,000",
-      "joining_date": "2012/12/02",
-      "office": "New York",
-      "extension": "4804"
+      "name": "William Brown",
+      "position": "Integration Specialist",
+      "alma_mater": "UCLA"
+      "years_experience": "2",
+      "location": "Los Angeles"
     },
     {
-      "name": "Ashton Cox",
-      "designation": "Junior Technical Author",
-      "salary": "$86,000",
-      "joining_date": "2009/01/12",
-      "office": "San Francisco",
-      "extension": "1562"
+      "name": "Adrian Wilson",
+      "position": "Junior Technical Author",
+      "alma_mater": "Ohio State",
+      "years_experience": "9",
+      "location": "Dallas"
     },
     {
-      "name": "Airi Satou",
-      "designation": "Accountant",
-      "salary": "$162,700",
-      "joining_date": "2008/11/28",
-      "office": "Tokyo",
-      "extension": "5407"
+      "name": "Sandra Jones",
+      "position": "Accountant",
+      "alma_mater": "Duke",
+      "years_experience": "8",
+      "location": "Washington DC"
     },
     {
-      "name": "Caesar Vance",
-      "designation": "Pre-Sales Support",
-      "salary": "$106,450",
-      "joining_date": "2011/12/12",
-      "office": "New York",
-      "extension": "8330"
+      "name": "Vance Jacobsen",
+      "position": "Pre-Sales Support",
+      "alma_mater": "Pepperdine",
+      "years_experience": "12",
+      "location": "San Francisco "
     },
     {
-      "name": "Shad Decker",
-      "designation": "Regional Director",
-      "salary": "$183,000",
-      "joining_date": "2008/11/13",
-      "office": "Edinburgh",
-      "extension": "6373"
+      "name": "Susan Blake",
+      "position": "Regional Director",
+      "alma_mater": "Oregon State",
+      "years_experience": "8",
+      "location": "Portland"
     },
     {
-      "name": "Cedric Kelly",
-      "designation": "Senior Javascript Developer",
-      "salary": "$433,060",
-      "joining_date": "2012/03/29",
-      "office": "Edinburgh",
-      "extension": "6224"
+      "name": "Kelly Connors",
+      "position": "Senior Javascript Developer",
+      "alma_mater": "Rice",
+      "years_experience": "9",
+      "location": "Sydney"
     },
     {
-      "name": "Haley Kennedy",
-      "designation": "Senior Marketing Designer",
-      "salary": "$313,500",
-      "joining_date": "2012/12/18",
-      "office": "London",
-      "extension": "3597"
+      "name": "Kennedy Peterson",
+      "position": "Senior Marketing Designer",
+      "alma_mater": "Loyola Marymount",
+      "years_experience": "18",
+      "location": "San Francisco"
     },
     {
-      "name": "Colleen Hurst",
-      "designation": "Javascript Developer",
-      "salary": "$205,500",
-      "joining_date": "2009/09/15",
-      "office": "San Francisco",
-      "extension": "2360"
+      "name": "Colleen Kerry",
+      "position": "Javascript Developer",
+      "alma_mater": "University of Washington",
+      "years_experience": "15",
+      "location": "Seattle"
     },
     {
-      "name": "Dai Rios",
-      "designation": "Personnel Lead",
-      "salary": "$217,500",
-      "joining_date": "2012/09/26",
-      "office": "Edinburgh",
-      "extension": "2290"
+      "name": "Ross Baker",
+      "title": "Personnel Lead",
+      "alma_mater": "NYU",
+      "years_experience": "9",
+      "location": "Washington DC"
     },
     {
-      "name": "Herrod Chandler",
-      "designation": "Sales Assistant",
-      "salary": "$137,500",
-      "joining_date": "2012/08/06",
-      "office": "San Francisco",
-      "extension": "9608"
+      "name": "Chandler Bing",
+      "position": "Sales Assistant",
+      "alma_mater": "Columbia",
+      "years_experience": "6",
+      "location": "San Francisco"
     },
     {
-      "name": "Rhona Davidson",
-      "designation": "Integration Specialist",
-      "salary": "$327,900",
-      "joining_date": "2010/10/14",
-      "office": "Tokyo",
-      "extension": "6200"
+      "name": "David Wilson",
+      "position": "Integration Specialist",
+      "alma_mater": "Syracuse",
+      "years_experience": "14",
+      "location": "New York"
     },
     {
-      "name": "Sonya Frost",
-      "designation": "Software Engineer",
-      "salary": "$103,600",
-      "joining_date": "2008/12/13",
-      "office": "Edinburgh",
-      "extension": "1667"
+      "name": "Sam Frost",
+      "position": "Software Engineer",
+      "alma_mater": "University of British Columbia",
+      "years_experience": "8",
+      "location": "Seattle"
     },
     {
-      "name": "Jena Gaines",
-      "designation": "Office Manager",
-      "salary": "$90,560",
-      "joining_date": "2008/12/19",
-      "office": "London",
-      "extension": "3814"
+      "name": "Juliet Gaines",
+      "position": "Office Manager",
+      "alma_mater": "University of Chicago",
+      "years_experience": "19",
+      "location": "Chicago"
     },
     {
-      "name": "Quinn Flynn",
-      "designation": "Support Lead",
-      "salary": "$342,000",
-      "joining_date": "2013/03/03",
-      "office": "Edinburgh",
-      "extension": "9497"
+      "name": "Quinn Arend",
+      "position": "Support Lead",
+      "alma_mater": "Georgetown",
+      "years_experience": "3",
+      "location": "Washington DC"
     }
   ]
 }
